@@ -14,7 +14,7 @@
 
 ## instalacion
 
-- git clone https://github.com/hackingboy2020/HyperScan.git
+- git clone https://github.com/hackingboy2020/HyperScaner.git
 - chmod 777 -R HyperScan
 - cd HyperScan
 - chmod +x *
