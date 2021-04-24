@@ -132,16 +132,19 @@ unicornscan $ipe
 
 
 echo -e $rojo
+figlet dmitry
+echo -e $amarillo
+dmitry -winspef -o pagina.txt $ipe
+
+
+echo -e $rojo
 figlet nikto
 echo -e $amarillo
 nikto -h $ipe
 
 
 
-echo -e $rojo
-figlet dmitry
-echo -e $amarillo
-dmitry -winspef -o pagina.txt $ipe
+
 
 echo -e $rojo
 figlet dnsmap
